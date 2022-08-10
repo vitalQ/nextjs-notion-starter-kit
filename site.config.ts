@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: null,
-  github: null,
+  github: 'vitalQ',
   linkedin: null,
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
