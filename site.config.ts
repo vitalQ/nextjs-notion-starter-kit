@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'vital',
 
   // open graph metadata (optional)
-  description: '',
+  description: 'java,linux',
 
   // social usernames (optional)
   twitter: null,
-  github: 'vitalQ',
+  github: null,
   linkedin: null,
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
